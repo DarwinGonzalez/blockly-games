@@ -71,7 +71,7 @@ Maze.SKINS = [
     sprite: 'maze/pegman.png',
     tiles: 'maze/tiles_pegman.png',
     marker: 'maze/marker.png',
-    background: false,
+    background: 'maze/bg_super.jpg',
     graph: false,
     look: '#000',
     winSound: ['maze/win.mp3', 'maze/win.ogg'],
